@@ -1,1 +1,1 @@
-Some text stuff goes in here.
+Updated the readme text for feature update.
